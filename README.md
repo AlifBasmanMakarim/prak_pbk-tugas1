@@ -6,7 +6,3 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 # prak_pbk-t1
 # prakPbkT1
 # prak_pbk-tugas1
-
-<img width="180" height="148" alt="image" src="https://github.com/user-attachments/assets/46c3c42c-e203-4b52-92d7-00340827041c" />
-
-<img width="1367" height="523" alt="image" src="https://github.com/user-attachments/assets/6b6f9a81-fc2b-432f-ad8b-795dd18f2bb8" />
